@@ -1,3 +1,3 @@
 # Learn-by-concept-JavaScript
 
-> Minhas anotações durante meus estudos em JavaScript.
+> Algumas das minhas anotações durante meus estudos em JavaScript.
